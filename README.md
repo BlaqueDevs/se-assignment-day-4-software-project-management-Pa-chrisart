@@ -4,6 +4,32 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+      Waterfall: one step finishes before the next starts
+      Advantages: 
+      1. Uses clear structure - When compared with other methodologies, Waterfall focuses most on a clear, defined set of steps e.g. 
+      Requirement gathering and documentation
+      System design
+      Implementation
+      Testing
+      Delivery/deployment
+      Maintenance
+
+      2. Determines the end goal early - One of the defining steps of Waterfall is committing to an end product, goal, or deliverable at the beginning, and teams should avoid deviating         from that commitment. For small projects where goals are clear, the Waterfall model is good for making your team aware of the overall goal from the start, with less potential for         getting lost in the details as the project moves forward.
+
+      3. Transfers information well - Waterfall’s approach is highly methodical, so it should come as no surprise that the methodology emphasizes a clean transfer of information at each        step. When applied in a software setting, every new step involves a new group of people, and though that might not be the case at your company, you still should aim to document           information throughout a project’s lifecycle. Whether you’re passing projects off at each step or experience unexpected personnel changes, Waterfall prioritizes accessible                information so new additions to the team can get up to speed quickly if needed.
+      
+      Agile: More flexible, focusing on small, rapid cycles (called sprints).
+      Advantages: 
+      1. Satisfied customers - By involving customers in the development process, Agile teams keep them in the loop and show that they value their opinion.
+      
+      2. Improved quality - Agile methodologies use an iterative approach to project management, meaning processes are improved upon each time an interval is repeated. This consistent             focus on improvement and quality control is one of the core principles of Agile, and it helps to create superior products.
+      
+      3. Adaptability - The central theme of Agile is flexibility. Agile teams are responsive to change, even at the last minute, and can adapt to it without much disruption. Project              deliverables are not set in stone, so teams can easily reassess their plans and adjust their priorities to align with updated goals. Being adaptable means teams can deliver               consistently and manage clients’ changing requirements effectively. 
+      4. Predictability - Agile teams work in short time periods, sometimes referred to as sprints. These fixed durations (e.g., two weeks) make it easier for project managers to measure          team performance and assign resources accordingly. It is also easier to predict costs for shorter time periods than for a long-term project, simplifying the estimation process.  
+      5. Reduced risk - Developers regularly assess progress during sprints, meaning they have better visibility into the project and can spot potential obstacles quickly. These minor             issues can be tackled before they escalate, creating an effective risk mitigation process and giving the project a greater chance of success. 
+      6. Better communication - Agile teams prioritize face-to-face communication and continuous interaction. They will usually conduct daily meetings to ensure everyone is on the same            page and working towards the same objectives. By regularly communicating with each other, they eliminate potential confusion to successfully achieve their objectives. 
+      
+       
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
